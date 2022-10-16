@@ -1,8 +1,11 @@
 import "./App.css";
+import Application from "./components/application";
 
 const App = () => {
     return (
-        <div>App</div>
+        <div>
+            <Application />
+        </div>
     )
 }
 
