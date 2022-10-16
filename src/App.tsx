@@ -12,7 +12,7 @@ const App = () => {
                 {/* <Application /> */}
                 {/* <Skills skills={['html', 'css', 'javascript']} /> */}
                 {/* <Counter /> */}
-                <MuiMode />
+                {/* <MuiMode /> */}
             </div>
         </AppProviders>
     )

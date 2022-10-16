@@ -8,6 +8,6 @@ describe('MuiMode', () => {
             wrapper: AppProviders,
         });
         const heading = screen.getByRole('heading');
-        expect(heading).toHaveTextContent('dark mode');
+        expect(heading).toHaveTextContent('light mode');
     });
 });
