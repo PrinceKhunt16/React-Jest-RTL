@@ -38,7 +38,7 @@ const Application = () => {
                     </label>
                 </div>
                 <br />
-                <button disabled>Submit</button>
+                <button>Submit</button>
             </form>
         </>
     )

@@ -16,8 +16,8 @@ Priority order for queries
 
 */
 
-describe('Application', () => {
-    it('render correctly', () => {
+describe.skip('Application', () => {
+    test('render correctly', () => {
         render(<Application />);
         
         const pageHeading = screen.getByRole('heading', {
